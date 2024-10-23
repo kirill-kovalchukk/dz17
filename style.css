@@ -31,12 +31,8 @@ body {
   }
 
   .how-it-works-image1{
-    position: relative;
-    right:  1100px;
   }
   .how-it-works-image2{
-    position: relative;
-    right:  100px;
   }
   .how-it-works-item1 h4 {
     font-size: 1.25rem;
@@ -53,8 +49,6 @@ body {
     color: #6c757d;
   }
   .how-it-works-item1{
-  position: relative;
-  left: 680px;
   }
   .how-it-works-item2 h4 {
     font-size: 1.25rem;
@@ -71,8 +65,6 @@ body {
     color: #6c757d;
   }
   .how-it-works-item2{
-    position: relative;
-    left: 250px;
   }
   .how-it-works-image img {
     width: 100%;
@@ -175,6 +167,6 @@ left: 1200px;
   }
   .imgg{
     position: relative;
-    left: 35px;
-    top: 50px;
+    right: 570px;
+    top: 230px;
   }
